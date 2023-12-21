@@ -8,7 +8,7 @@
 ### 📫 How to reach me 
 Email: [**omidobenard@gmail.com**]
 
-LinkedIn: [**www.linkedin.com/in/omidobenard**]
+LinkedIn: [**https://www.linkedin.com/in/omidobenard/**]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
