@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Benard</h1>
-<h3 align="center">I am Benard from Kenya, I specialize in data analysis and statistical analysis. I really enjoy 
+<h1 align="left">Hi 👋, I'm Benard</h1>
+<h3 align="left">I am Benard from Kenya, I specialize in data analysis and statistical analysis. I really enjoy 
   working with data to derive insights and explore different patterns that can help business make data driven decisions.</h3>
 
 - 🌱 I’m currently learning **Power Bi**
